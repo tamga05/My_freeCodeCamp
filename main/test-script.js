@@ -24,11 +24,16 @@
 // let b = +prompt("Назовите другую сторону прямоугольника", "");
 // console.log((a + b) * 2);
 
-let arr = [];
+// let arr = [];
 
-arr[0] = prompt('Как тебя зовут?');
-arr[1] = prompt('Ты откуда');
-arr[2] = prompt('Сколько тебе лет');
+// arr[0] = prompt('Как тебя зовут?');
+// arr[1] = prompt('Ты откуда');
+// arr[2] = prompt('Сколько тебе лет');
 
-console.log(arr);
-console.log(typeof(arr));
+// console.log(arr);
+// console.log(typeof(arr));
+
+// let admin, name;
+// name = "Джон";
+// admin = name;
+// alert(admin);
