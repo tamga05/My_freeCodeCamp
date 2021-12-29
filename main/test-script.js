@@ -37,3 +37,15 @@
 // name = "Джон";
 // admin = name;
 // alert(admin);
+
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+
+let removedFromMyArray;
+
+removedFromMyArray = myArray.pop();
+
+//alert(removedFromMyArray);
+console.log(removedFromMyArray);
