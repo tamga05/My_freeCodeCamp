@@ -1,7 +1,7 @@
 <style>
   #box-container {
     height: 500px;
-display: flex;
+    display: flex;
   }
 
   #box-1 {
